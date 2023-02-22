@@ -12,4 +12,6 @@ continues. The larger image will take you to my first challenge I did.
 [alt text](/assets/image/contact.PNG)
 For the contact, I did it the same as the nav bar. 
 
+https://thandyn.github.io/Andy-Nguyen-Portfolio/
+
 More update will soon to come. 
