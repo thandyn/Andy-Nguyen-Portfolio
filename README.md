@@ -1,7 +1,7 @@
 # Andy-Nguyen-Portfolio
 This is the first attempt at making a portfolio. 
 
-[alt text](/assets/image/header%20nav.PNG)
+[alt text](https://raw.githubusercontent.com/thandyn/Andy-Nguyen-Portfolio/main/assets/image/header%20nav.PNG)
 Starting with the header and nav bar, I made the nav bar change background color when it is hovered using pseudo elements.
 Everything in the nav bar jumps to the approiate section after it's name. 
 
